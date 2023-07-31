@@ -1,1 +1,1 @@
-export const APIURL = "https://pending-satyamthakur042000-gmailcom.vercel.app"
+export const APIURL = "https://equipment-booking-demo.vercel.app/"
